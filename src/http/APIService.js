@@ -1,7 +1,7 @@
 /* eslint-disable */
 import axios from 'axios';
 //const API_URL = 'https://pzbmeg.pythonanywhere.com/';
-const API_URL = 'http://pzbmeg.pythonanywhere.com/';
+const API_URL = 'https://pzbmeg.pythonanywhere.com/';
 
 export class APIService {
     constructor() {
